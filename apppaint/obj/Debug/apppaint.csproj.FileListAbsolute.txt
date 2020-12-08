@@ -1,0 +1,10 @@
+D:\Tudor\Proiecte c#\apppaint\apppaint\bin\Debug\apppaint.exe.config
+D:\Tudor\Proiecte c#\apppaint\apppaint\bin\Debug\apppaint.exe
+D:\Tudor\Proiecte c#\apppaint\apppaint\bin\Debug\apppaint.pdb
+D:\Tudor\Proiecte c#\apppaint\apppaint\obj\Debug\apppaint.csprojAssemblyReference.cache
+D:\Tudor\Proiecte c#\apppaint\apppaint\obj\Debug\apppaint.Form1.resources
+D:\Tudor\Proiecte c#\apppaint\apppaint\obj\Debug\apppaint.Properties.Resources.resources
+D:\Tudor\Proiecte c#\apppaint\apppaint\obj\Debug\apppaint.csproj.GenerateResource.cache
+D:\Tudor\Proiecte c#\apppaint\apppaint\obj\Debug\apppaint.csproj.CoreCompileInputs.cache
+D:\Tudor\Proiecte c#\apppaint\apppaint\obj\Debug\apppaint.exe
+D:\Tudor\Proiecte c#\apppaint\apppaint\obj\Debug\apppaint.pdb
